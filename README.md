@@ -10,4 +10,7 @@
 * DBSCAN
 
 ## Investigar
-* Agglomerative Hierarchical Clustering
+* Agglomerative Hierarchical Clustering (Usar librería de Scikit Learn)
+
+## Evaluar
+Evaluar la calidad de cada cluster verificando si los elementos en cada grupo, efectivamente pertenecen al mismo tejido. Use algunas **métricas** para verificar la calidad del cluster.
